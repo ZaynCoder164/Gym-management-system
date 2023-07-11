@@ -1,0 +1,31 @@
+.btn-primary:hover{
+	background-color: white;
+	color: #007bff;
+	border-color: #007bff;
+	border-width: 1.5px;
+}
+
+#cardreg{
+    padding: 2vmin;
+    width:140vmin;
+}
+
+.card-body{
+    height: 12vmin;
+    width: 140vmin;
+    position: relative;
+    right: 2.3vmin;
+    margin-bottom: 6px;
+}
+
+#logout{
+    position: relative;
+    top: -1vmin;
+    left: 1vmin;
+}
+#logout:hover{
+    background-color: white;
+	color: #007bff;
+	border-color: #007bff;
+	border-width: 1.5px;
+}
